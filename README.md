@@ -16,36 +16,16 @@ Here are some ideas to get you started:
 -->
 # I'MRDSDevPro
 
-Breve descripción del proyecto.
+👋 ¡Hola a todos! Soy Ronald Zambrano, un entusiasta del desarrollo de software de 24 años y un apasionado estudiante de tecnología. Actualmente estoy persiguiendo un título de tecnólogo en Análisis y Desarrollo de Software en el Sena, sumergiéndome en el fascinante mundo de la programación y la resolución de problemas.
+
+Me encanta enfrentar desafíos y mantenerme en constante aprendizaje para mejorar mis habilidades. Mi trayectoria está marcada por un espíritu curioso y la ambición de explorar nuevas tecnologías. Siempre dispuesto a colaborar y aportar al mundo de la programación. Con experiencia en Java, PHP, HTML, CSS y MySQL. ¡Listo para colaborar en proyectos innovadores y seguir creciendo en el mundo de la tecnología! ¡Conéctate conmigo y juntos exploremos las posibilidades infinitas del desarrollo de software! 💻🚀 
 
 ## Capturas de Pantalla
 
 ![Ejemplo de captura de pantalla](ruta/a/imagen.png)
 
-## Instalación
-
-1. Paso uno de instalación.
-2. Paso dos de instalación.
-3. Paso tres de instalación.
-
-## Uso
-
-Aquí puedes proporcionar ejemplos de cómo usar tu proyecto.
-
-## Documentación
-
-Para obtener más información, consulta la documentación completa [aquí](enlace/a/documentacion).
-
-## Contribuciones
-
-Si deseas contribuir a este proyecto, sigue estas pautas.
-
-## Licencia
-
-Este proyecto está bajo la Licencia XYZ. Para más detalles, consulta el archivo [LICENSE](enlace/a/licencia).
-
 ## Contacto
 
-- Sitio Web: [Enlace al Sitio Web](enlace/a/sitio)
-- LinkedIn: [Enlace a LinkedIn](enlace/a/linkedin)
-- Twitter: [Enlace a Twitter](enlace/a/twitter)
+- Correo: ronaldavid1908@hotmail.com
+  
+
