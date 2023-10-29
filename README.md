@@ -22,7 +22,7 @@ Me encanta enfrentar desafíos y mantenerme en constante aprendizaje para mejora
 
 ## Video de Demostración
 
-[![Video de Demostración](/gif/1jpg)](https://www.flexclip.com/es/share/4312831ede26ccc24e6b80b8caecf2ac1fc39ac.html)
+[![Video de Demostración](/gif/1.jpg)](https://www.flexclip.com/es/share/4312831ede26ccc24e6b80b8caecf2ac1fc39ac.html)
 
 ## Contacto
 
