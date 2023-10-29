@@ -22,7 +22,7 @@ Me encanta enfrentar desafíos y mantenerme en constante aprendizaje para mejora
 
 ## Capturas de Pantalla
 
-![Ejemplo de captura de pantalla](ruta/a/imagen.png)
+![Ejemplo de captura de pantalla](Untitled ‑ Made with FlexClip (1).mp4)
 
 ## Contacto
 
