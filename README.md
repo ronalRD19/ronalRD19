@@ -22,7 +22,7 @@ Me encanta enfrentar desafíos y mantenerme en constante aprendizaje para mejora
 
 ## Video de Demostración
 
-[![Video de Demostración](/gif/1.jpg)](https://youtu.be/WIsAVPk44Xo)
+[![Video de Demostración](/gif/web.jpg)](https://youtu.be/WIsAVPk44Xo)
 
 ## Contacto
 
