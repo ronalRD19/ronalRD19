@@ -24,8 +24,11 @@ Me encanta enfrentar desafíos y mantenerme en constante aprendizaje para mejora
 
 [![Video de Demostración](/gif/web.jpg)](https://youtu.be/WIsAVPk44Xo)
 
+
+https://ronalrd19.github.io/ 
+
 ## Contacto
 
-- Correo: ronaldavid1908@hotmail.com
+- Correo: ronaldavid1908@hotmail.com 
   
 
