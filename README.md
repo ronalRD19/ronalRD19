@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'MRDSDevPro
+# I'M-RD
 
 Soy Ronald Zambrano, un entusiasta del desarrollo de software de 24 años y un apasionado estudiante de tecnología. Actualmente estoy persiguiendo un título de tecnólogo en Análisis y Desarrollo de Software en el Sena, sumergiéndome en el fascinante mundo de la programación y la resolución de problemas.
 
