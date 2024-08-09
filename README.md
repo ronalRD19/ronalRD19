@@ -16,9 +16,42 @@ Here are some ideas to get you started:
 -->
 # I'M-RD
 
-Soy Ronald Zambrano, un entusiasta del desarrollo de software de 24 años y un apasionado estudiante de tecnología. Actualmente estoy persiguiendo un título de tecnólogo en Análisis y Desarrollo de Software en el Sena, sumergiéndome en el fascinante mundo de la programación y la resolución de problemas.
+Soy un desarrollador Java en ascenso apasionado por la tecnología y la ciberseguridad. Actualmente curso el Tecnólogo en Análisis y Desarrollo de Software en el Sena, donde estoy adquiriendo sólidas habilidades en desarrollo web y móvil con HTML, CCS, JavaScript, Express, React y React native con Node js, programación Java, Python y desarrollo de bases de datos MySQL y SQL Server. 
 
-Me encanta enfrentar desafíos y mantenerme en constante aprendizaje para mejorar mis habilidades. Mi trayectoria está marcada por un espíritu curioso y la ambición de explorar nuevas tecnologías. Siempre dispuesto a colaborar y aportar al mundo de la programación. Con experiencia en Java, PHP, HTML, CSS y MySQL. ¡Listo para colaborar en proyectos innovadores y seguir creciendo en el mundo de la tecnología! ¡Conéctate conmigo y juntos exploremos las posibilidades infinitas del desarrollo de software! 💻🚀 
+Mi experiencia en las prácticas del Sena me ha permitido poner en práctica mis conocimientos técnicos en proyectos reales, incluyendo la implementación de un sistema de gestión de seguridad de la información (SGSI) basado en la norma ISO 27001.
+
+Si bien me encuentro en una etapa inicial de mi carrera profesional, estoy convencido de mi capacidad para aprender rápidamente y adaptarme a nuevos entornos. Soy una persona responsable, organizada y con excelentes habilidades de comunicación y trabajo en equipo.
+
+Mi objetivo profesional es especializarme en ciberseguridad, aprovechando mis habilidades en desarrollo Java y mi conocimiento de la norma ISO 27001 para contribuir a la protección de la información de las empresas.
+
+Poseo las siguientes habilidades:
+
+Habilidades técnicas:
+
+Programación Java (en constante desarrollo)
+Python (en constante desarrollo)
+Desarrollo de bases de datos MySQL (en constante desarrollo)
+Implementación de SGSI ISO 27001 (experiencia práctica en entornos de formación)
+
+Habilidades blandas:
+
+Responsabilidad.
+Organización.
+Comunicación efectiva.
+Trabajo en equipo.
+Adaptabilidad.
+
+Estoy buscando oportunidades para:
+
+Colaborar en proyectos de implementación y administración de SGSI ISO 27001.
+Aprender de profesionales experimentados en el campo de la ciberseguridad.
+Continuar mi formación en ciberseguridad a través de cursos, talleres y certificaciones.
+Aportar mi entusiasmo y capacidad de aprendizaje a un equipo dinámico y desafiante.
+Estoy seguro de que puedo ser un activo valioso para cualquier equipo que busque incorporar talento joven y entusiasta con un gran potencial en el ámbito de la ciberseguridad.
+
+¡No dudes en contactarme si estás interesado en saber más sobre mi experiencia y habilidades!
+
+¡Gracias por tu tiempo! 💻🚀 
 
 ## Video de Demostración
 
