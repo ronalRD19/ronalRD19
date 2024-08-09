@@ -30,7 +30,8 @@ Habilidades técnicas:
 
 Programación Java (en constante desarrollo)
 Python (en constante desarrollo)
-Desarrollo de bases de datos MySQL (en constante desarrollo)
+Desarrollo de bases de datos MySQL y SQL Server (en constante desarrollo)
+
 Implementación de SGSI ISO 27001 (experiencia práctica en entornos de formación)
 
 Habilidades blandas:
