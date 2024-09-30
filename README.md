@@ -59,8 +59,8 @@ Estoy seguro de que puedo ser un activo valioso para cualquier equipo que busque
 [![Video de Demostración](/gif/web.jpg)](https://youtu.be/WIsAVPk44Xo)
 
 
-https://ronalrd19.github.io/
-https://ronalrd19.github.io/Sellertatpro/ 
+**Pagina Web Estatica:**https://ronalrd19.github.io/
+**Desarrollo Web** https://ronalrd19.github.io/Sellertatpro/ 
 
 ## Contacto
 
