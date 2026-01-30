@@ -1,113 +1,88 @@
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hola%2C+soy+Ronald+Zambrano+%F0%9F%91%8B;Desarrollador+Backend;Java+%7C+Spring+Boot+%7C+Python+%7C+Flask;AWS+%7C+PostgreSQL+%7C+Docker)](https://git.io/typing-svg)
+# Ronald Zambrano
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-david-zambrano-salas-1757b173/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ronalrd19.github.io/Portafolio/)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ronald-david-zambrano-salas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldavid1908@hotmail.com)
+**Desarrollador Backend** · Bogotá, Colombia 🇨🇴
 
-<img src="https://komarev.com/ghpvc/?username=ronalRD19&label=Profile%20views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+Desarrollo software con enfoque en seguridad. Certificado como Lead Auditor en ISO/IEC 27001:2022.
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-david-zambrano-salas-1757b173/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://ronalrd19.github.io/Portafolio/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/ronald-david-zambrano-salas)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ronaldavid1908@hotmail.com)
 
 ---
 
-## 🚀 Sobre mí
+## Tecnologías
 
-```javascript
-const ronald = {
-    rol: "Desarrollador Backend",
-    ubicacion: "Bogotá, Colombia 🇨🇴",
-    trabajoActual: "Rombo",
-    stack: ["Java", "Spring Boot", "Python", "Flask", "Angular", "AWS"],
-    diferencial: "ISO/IEC 27001:2022 Lead Auditor 🔐",
-    disponible: true
-};
-```
+**Backend:** Java · Spring Boot · Python · Flask · Node.js · Express
 
-> **💡 Mi diferencial:** Combino desarrollo de software con ciberseguridad. Escribo código seguro desde el diseño.
+**Frontend:** Angular · React · React Native · TypeScript · JavaScript · HTML · CSS
+
+**Bases de datos:** PostgreSQL · MySQL · SQL Server
+
+**Cloud & DevOps:** AWS · Docker · Git · GitHub Actions
+
+**Seguridad:** ISO 27001 · SGSI · Desarrollo Seguro
 
 ---
 
-## 💼 Experiencia
+## Educación
 
-| Empresa | Rol | Tecnologías |
-|:-------:|:---:|:-----------:|
-| **Rombo** | Desarrollador de Software | Flask · Angular · PostgreSQL · AWS |
-| **Universidad Pedagógica Nacional** | Desarrollador de Software | Spring Boot · Angular · Microservicios |
-| **Sevin Ltda** | Prácticas | Java · JSP · SQL Server · ISO 27001 |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
+| Título | Institución | Estado |
+|--------|-------------|--------|
+| Ingeniería de Software | Corporación Universitaria Iberoamericana | En curso |
+| Tecnólogo en Análisis y Desarrollo de Software | SENA | 2022 - 2024 |
 
 ---
 
-## 🏆 Certificaciones Destacadas
-
-<div align="center">
+## Certificaciones
 
 | Certificación | Emisor |
-|:-------------:|:------:|
-| 🛡️ **ISO/IEC 27001:2022 Lead Auditor** | CertiProf |
-| ☁️ **Arquitectura en la Nube** | Talento Tech AI |
-| ☕ **Java SE 8 Programming (OCP)** | EXACOM |
-| ☕ **Java EE 7 Backend Development** | EXACOM |
-| 📋 **Scrum Foundation** | CertiProf |
-| 🔒 **Fundamentos de Ciberseguridad** | Google |
+|---------------|--------|
+| ISO/IEC 27001:2022 Lead Auditor | CertiProf |
+| Arquitectura en la Nube | Talento Tech AI |
+| Scrum Foundation | CertiProf |
+| Diplomado en Programación en Java | Politécnico de Colombia |
+| Despliegue de Aplicaciones en Contenedores Docker | SENA |
+| Fundamentos de la Ciberseguridad | Google |
+| Ciberseguridad | MinTIC |
+| Desarrollador Java | Colsubsidio CET |
+| Java EE 7 Backend Server Application Development | EXACOM |
+| Java SE 8 Programming I | EXACOM |
+| Java SE 8 Programming II (OCP) | EXACOM |
+| Desarrollador Back-end | Fundación Carlos Slim |
+| Construcción de Bases de Datos con MySQL | SENA |
+| Variables y Estructuras de Control en Python | SENA |
 
-[![Credly](https://img.shields.io/badge/Ver_todas_en_Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ronald-david-zambrano-salas)
-
-</div>
----
-
-## 🚀 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-|:--------:|:-----------:|:-----------:|
-| [**SellerTat Pro**](https://ronalrd19.github.io/Sellertatpro/) | Sistema de gestión con app web y móvil | Node.js · React · React Native · MySQL |
-| [**Portafolio**](https://ronalrd19.github.io/Portafolio/) | Sitio web personal | HTML · CSS · JavaScript |
+🔗 [Ver credenciales en Credly](https://www.credly.com/users/ronald-david-zambrano-salas)
 
 ---
 
-<div align="center">
+## Proyectos
 
-### 💬 ¿Tienes un proyecto en mente?
+### [SellerTat Pro](https://ronalrd19.github.io/Sellertatpro/)
+Sistema de gestión con aplicación web y móvil para control de ventas e inventario.
 
-[![Email](https://img.shields.io/badge/Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldavid1908@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-david-zambrano-salas-1757b173/)
+`Node.js` `Express` `React` `React Native` `MySQL`
+
+### [Sistema de Gestión Java](https://github.com/ronalRD19)
+Aplicación web empresarial para gestión de datos.
+
+`Java` `JSP` `Servlets` `MySQL`
+
+### [Landing Page Corporativa](https://ronalrd19.github.io/)
+Página web estática con diseño responsive.
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
-⭐ **Desarrollado con ☕ y código limpio** ⭐
+## GitHub Stats
 
-</div>
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ronalRD19&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronalRD19&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+📫 **Contacto:** ronaldavid1908@hotmail.com
