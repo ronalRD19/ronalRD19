@@ -1,8 +1,9 @@
 # Ronald Zambrano
 
-**Desarrollador Backend** · Bogotá, Colombia 🇨🇴
+**Backend Developer** · Bogotá, Colombia 🇨🇴
 
-Desarrollo software con enfoque en seguridad. Certificado como Lead Auditor en ISO/IEC 27001:2022.
+I build secure, scalable software with a strong focus on information security.
+Certified ISO/IEC 27001:2022 Lead Auditor.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-david-zambrano-salas-1757b173/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://ronalrd19.github.io/Portafolio/)
@@ -11,7 +12,7 @@ Desarrollo software con enfoque en seguridad. Certificado como Lead Auditor en I
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tech Stack
 
 **Backend**
 
@@ -29,7 +30,7 @@ Desarrollo software con enfoque en seguridad. Certificado como Lead Auditor en I
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Bases de datos**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
@@ -43,35 +44,35 @@ Desarrollo software con enfoque en seguridad. Certificado como Lead Auditor en I
 
 ---
 
-## 🎓 Educación
+## 🎓 Education
 
-| Título | Institución | Estado |
+| Degree | Institution | Status |
 |--------|-------------|--------|
-| Ingeniería de Software | Corporación Universitaria Iberoamericana | En curso |
-| Tecnólogo en Análisis y Desarrollo de Software | SENA | Graduado |
+| Software Engineering | Corporación Universitaria Iberoamericana | In progress |
+| Software Analysis and Development (Technologist) | SENA | Graduated |
 
 ---
 
-## 📜 Certificaciones
+## 📜 Certifications
 
-| Certificación | Emisor |
+| Certification | Issuer |
 |---------------|--------|
 | 🛡️ ISO/IEC 27001:2022 Lead Auditor | CertiProf |
-| ☁️ Arquitectura en la Nube | Talento Tech AI |
+| ☁️ Cloud Architecture | Talento Tech AI |
 | ☕ Java SE 8 Programming II (OCP) | EXACOM |
 | ☕ Java EE 7 Backend Development | EXACOM |
-| 🐳 Despliegue en Contenedores Docker | SENA |
-| 🔒 Fundamentos de Ciberseguridad | Google |
+| 🐳 Docker Container Deployment | SENA |
+| 🔒 Cybersecurity Fundamentals | Google |
 | 📋 Scrum Foundation | CertiProf |
 
 🔗 [Ver todas mis certificaciones en Credly](https://www.credly.com/users/ronald-david-zambrano-salas)
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Projects
 
 ### [SubastArt](https://github.com/No-Country-simulation/s20-04-n)
-Plataforma de subastas de arte online con pujas en tiempo real.
+Online art auction platform with real-time bidding.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -82,7 +83,7 @@ Plataforma de subastas de arte online con pujas en tiempo real.
 ---
 
 ### [Fineazily](https://github.com/No-Country-simulation/S19-07-N-WEBAPP)
-Sistema de gestión financiera para PyMEs: sucursales, personal y finanzas.
+Financial management system for SMEs: branches, staff, and financial operations.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -94,7 +95,7 @@ Sistema de gestión financiera para PyMEs: sucursales, personal y finanzas.
 ---
 
 ### [SellerTat Pro](https://ronalrd19.github.io/Sellertatpro/)
-Sistema de gestión con aplicación web y móvil para control de ventas e inventario.
+Management system with web and mobile applications for sales and inventory control.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -103,4 +104,7 @@ Sistema de gestión con aplicación web y móvil para control de ventas e invent
 
 ---
 
-📫 **Contacto:** ronaldavid1908@hotmail.com
+📫 **Contact:** 
+📧 ronaldavid1908@hotmail.com
+🌐 Portfolio: https://ronaldzambrano.me/
+https://www.linkedin.com/in/ronald-david-zambrano-salas-1757b173/
