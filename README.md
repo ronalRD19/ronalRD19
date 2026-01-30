@@ -106,4 +106,4 @@ Management system with web and mobile applications for sales and inventory contr
 
 📫 **Contact:** 
 📧 ronaldavid1908@hotmail.com
-🌐 Portfolio: https://ronaldzambrano.me/
+🌐 https://ronaldzambrano.me/
