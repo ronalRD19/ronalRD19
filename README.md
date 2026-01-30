@@ -88,34 +88,6 @@ const ronald = {
 [![Credly](https://img.shields.io/badge/Ver_todas_en_Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ronald-david-zambrano-salas)
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronalRD19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronalRD19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" />
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ronalRD19&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏅 Trofeos
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ronalRD19&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 🚀 Proyectos Destacados
