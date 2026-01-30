@@ -107,4 +107,3 @@ Management system with web and mobile applications for sales and inventory contr
 📫 **Contact:** 
 📧 ronaldavid1908@hotmail.com
 🌐 Portfolio: https://ronaldzambrano.me/
-https://www.linkedin.com/in/ronald-david-zambrano-salas-1757b173/
