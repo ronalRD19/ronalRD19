@@ -103,13 +103,4 @@ Sistema de gestión con aplicación web y móvil para control de ventas e invent
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ronalRD19&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronalRD19&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 📫 **Contacto:** ronaldavid1908@hotmail.com
